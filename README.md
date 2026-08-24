@@ -2,6 +2,7 @@
 
 Adafruit LED Backpack Library for our 8x8 matrix and 7-segment LED backpacks. Original author: Adafruit. This is Dave Robinson's working copy from the Arduino `libraries` tree. Version recorded in `library.properties`: 1.3.2. Upstream: <https://github.com/adafruit/Adafruit_LED_Backpack>.
 
+**Source last updated:** 2021-11-28  
 **Language:** C++ / Arduino  
 **Target:** Arduino (*)  
 **Output:** Arduino library
