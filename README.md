@@ -25,6 +25,10 @@ Adafruit LED Backpack Library for our 8x8 matrix and 7-segment LED backpacks. Or
 
 Install this folder as an Arduino library (Sketch → Include Library → Add .ZIP Library, or copy into `libraries/Adafruit_LED_Backpack_Library`). Open any `examples/*.ino` from the Arduino IDE.
 
+## Requirements
+
+- Arduino IDE
+
 ## Attribution and provenance
 
 - **Original author / maintainer:** Adafruit
